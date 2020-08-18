@@ -24,7 +24,7 @@ In this project I use the SURFRAD data to train my model(s) and then use the irr
 If you are interested in experimenting with your own models you can use the template I have created to pre-process all of the data and insert your own model. This template can also be found [here](https://github.com/ian-double-u/solar/blob/master/model_template.py)
 
 
-Otherwise, I provide some examples of models you could build to try and predict the irradiance data you observed. See the [model folder](https://github.com/ian-double-u/solar/tree/master/model) to view some models I experimented with.
+Otherwise, I provide an example of a model you could build to try and predict the irradiance data you observed. See the [model folder](https://github.com/ian-double-u/solar/tree/master/model) to view the model I experimented with.
 
 
 ### Conclusions
