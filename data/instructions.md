@@ -3,8 +3,7 @@
 ## my_data.csv 
 
 Step 1. Collecting Raw Irradiance Data
-
-### Required Hardware/Software
+** Required Hardware/Software **
 + [Vernier Pyranometer](https://www.vernier.com/product/pyranometer/)
 + [Vernier Go!Link](https://www.vernier.com/product/golink/)
 + [Vernier Graphical Analysis 4](https://www.vernier.com/product/graphical-analysis-4/)
