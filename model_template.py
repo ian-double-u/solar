@@ -3,10 +3,13 @@ import random as r
 import numpy as np
 
 # Read and Prepare Data
+
+# Use df1 for training model
 df1 = pd.read_csv('surfrad_data.csv') 
 anomaly = list(df[df['direct_n_QC'] != 0].index)
 df.drop(anomaly, axis=0, inplace=True) # drop incorrect measurements
 
+# Use df2 as a holdout set, or to test model
 df2 = pd.read_csv('my_data.csv') 
 
 # Create Train/Test Split
