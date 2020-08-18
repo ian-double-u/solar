@@ -2,7 +2,7 @@
 
 ## my_data.csv 
 
-<ins>Step 1.</ins> Collecting Raw Irradiance Data
+**<ins>Step 1.</ins>** Collecting Raw Irradiance Data
 
 **Required Hardware/Software**
 + [Vernier Pyranometer](https://www.vernier.com/product/pyranometer/)
