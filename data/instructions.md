@@ -7,8 +7,8 @@
 + [Vernier Go!Link](https://www.vernier.com/product/golink/)
 + [Vernier Graphical Analysis 4](https://www.vernier.com/product/graphical-analysis-4/)
 + Python 3 and Packages
-+ [Geo_JSON object]([http://geojson.io/](http://geojson.io/)) of observation site
-+ [Planet API Key]([https://www.planet.com/](https://www.planet.com/))
++ [Geo_JSON object](http://geojson.io/) of observation site
++ [Planet API Key](https://www.planet.com/)
 
 **<ins>Step 1.</ins>** Collecting raw irradiance data
 
