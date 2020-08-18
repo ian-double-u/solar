@@ -16,7 +16,7 @@ Step 3. Getting and Adding Cloud Data
 
 Step 1. Download Script
 
-Find the data stored [here](ftp://aftp.cmdl.noaa.gov/data/radiation/surfrad)
+Find the data stored [here](https://www.esrl.noaa.gov/gmd/grad/surfrad/)
 
 
 Step 2. YOU GET IT
