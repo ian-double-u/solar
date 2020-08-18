@@ -58,7 +58,7 @@ df['zen'] = [0.0]*df.shape[0]
 
 for i in range(0,df.shape[0]):
     day = df.loc[i]['jday']
-    lat = 45.4612
+    lat = local_lat
     
     hour = float(df.loc[i][time_zone][11:13])
     min_ = float(df.loc[i][time_zone][14:16])
