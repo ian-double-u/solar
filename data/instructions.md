@@ -28,17 +28,17 @@ Next, run [my_data_prep.py](https://github.com/ian-double-u/solar/blob/master/my
 
 ## surfrad_data.zip
 
-Step 1. Download data
+**<ins>Step 1.</ins>** Download data
 
 You can get the SURFRAD dataset in one of two ways. The first would be to use the data set in this repo, found [here](https://github.com/ian-double-u/solar/blob/master/data/surfrad_data.zip), however that is only two months of data (whereas NOAA has years worth of minute by minute observations). 
 
 The other (recommended) way would be to select and download the data you would liek with a script I have created for that purpose.  The NOAA data is stored [here](https://www.esrl.noaa.gov/gmd/grad/surfrad/).  Run [surfrad_download.py](https://github.com/ian-double-u/solar/blob/master/surfrad_download.py) to download data from all 6 NOAA stations for a given date range. 
 
 
-Step 2. Prepare data
+**<ins>Step 2.</ins>** Prepare data
 
 
 Next, in the same directory as you have the SURFRAD .dat files saved run [surfrad_data_prep.py](https://github.com/ian-double-u/solar/blob/master/surfrad_data_prep.py) to get surfrad_data.csv which is all of the SURFRAD data you will need. 
 
 
-You have now collected and prepared all of the data needed for this project!
+**You have now collected and prepared all of the data needed for this project!**
