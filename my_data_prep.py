@@ -92,7 +92,7 @@ for i in range(0,df.shape[0]):
     
 # Add clouds
 def clouds(geojson):
-    """gets cloud data from Planet API for June 26 to July 2 2020"""
+    """gets cloud data from Planet API for date range"""
 
     geojson_geometry = geojson # takes lng/lat
     
